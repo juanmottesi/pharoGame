@@ -1,0 +1,14 @@
+{
+	"category" : "FirstGame-GitConfig",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfFirstGame",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
