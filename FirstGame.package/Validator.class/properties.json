@@ -1,0 +1,15 @@
+{
+	"category" : "FirstGame-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"primary",
+		"secondly" ],
+	"name" : "Validator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

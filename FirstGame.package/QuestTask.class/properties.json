@@ -1,0 +1,15 @@
+{
+	"category" : "FirstGame-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tips",
+		"description" ],
+	"name" : "QuestTask",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

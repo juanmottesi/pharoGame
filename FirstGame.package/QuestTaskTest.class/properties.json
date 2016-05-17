@@ -1,0 +1,14 @@
+{
+	"category" : "FirstGame-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "QuestTaskTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "FirstGame-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"from",
+		"to",
+		"score" ],
+	"name" : "IntervalScore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

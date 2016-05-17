@@ -1,0 +1,14 @@
+{
+	"category" : "FirstGame-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"intervals" ],
+	"name" : "ScoringCriteria",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
